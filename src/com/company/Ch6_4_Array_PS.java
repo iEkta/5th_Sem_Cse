@@ -6,7 +6,7 @@
  5. Write a java program to reverse an array
  6. Write a java program to find the maximum element in an array
  7. Write a java program to find the minimum element in an array
- 8. Write a java program to find whether an array is sorted or not
+ 8. Write a java program to find whether an array is sorted or not.
  */
 
 

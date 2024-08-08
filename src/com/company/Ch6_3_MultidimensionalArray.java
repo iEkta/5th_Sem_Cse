@@ -13,7 +13,7 @@ public class Ch6_3_MultidimensionalArray {
         flats[1][2]= 203;
         System.out.println("Printing a 2-D array using for loop");
         for (int i=0; i<flats.length; i++){
-            for (int j=0; j<flats[i].length; j++){ //first it runs for i=0 and then i=1
+            for (int j=0; j<flats[i].length; j++){ // first it runs for i=0 and then i=1
                 System.out.print(flats[i][j]);
                 System.out.print(" ");
             }

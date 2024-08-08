@@ -2,7 +2,7 @@ package com.company;
 
 public class Ch6_1_Arrays {
     public static void main(String[] args) {
-        // Class of 500 students-- You have to store marks of these 500 students
+        // Class of 500 students-- You have to store marks of these 500 students.
         //There are three main ways to create an array in Java-
 
         // Below marks is reference, int is object

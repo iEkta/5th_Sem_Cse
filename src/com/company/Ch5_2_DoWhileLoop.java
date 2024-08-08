@@ -14,7 +14,7 @@ public class Ch5_2_DoWhileLoop {
             b++;
         }while (b<5);
 
-        //Write a program to print first n natural numbers using do-while loop
+        //Write a program to print first n natural numbers using do-while loop.
         int n= 0;
         do {
             System.out.println(n);

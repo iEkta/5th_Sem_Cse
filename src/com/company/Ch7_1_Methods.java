@@ -1,7 +1,8 @@
 package com.company;
 
 public class Ch7_1_Methods {
-    static int logic(int x, int y){//static is mandatory because you can only call a static method in psvm without object
+    static int logic(int x, int y){
+        //static is mandatory because you can only call a static method in psvm without object
         int z;
         if(x>y){
             z=x+y;

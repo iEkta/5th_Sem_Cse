@@ -8,7 +8,7 @@
         */
 //  2. Write a program to find out whether a student is pass or fail; if it requires total 40% and at least 33% in each subject to pass. Assume 3 subjects and take marks as an input from the user
 /* Calculate income tax paid by an employee to the government as per the slabs mentioned below:
-        Income Tax      Tax
+        Income Tax      Tax%
         2.5l-5.0l       5%
         5.0l-10.0l      20%
         Above 10.0l     30%

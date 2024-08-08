@@ -1,3 +1,4 @@
+//Write a java program to make a game of rock, paper and scissor
 package com.company;
 
 import java.util.Objects;

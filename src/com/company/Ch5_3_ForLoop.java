@@ -7,7 +7,7 @@ public class Ch5_3_ForLoop {
         }
 
         System.out.println(" ");
-        //Write a program to print first n natural numbers using for loop
+        //Write a program to print first n natural numbers using for loop.
         for (int n=0; n<=15; n++){
             if (n%2!=0){
                 System.out.println(n);

@@ -11,7 +11,7 @@ public class Ch7_4_Method_overloading {
     static void foo(int a ){ //parameterized (a is a parameter)
         System.out.println("Good Morning "+ a+ " bro");
     }
-    static void foo(int a, int b){ //parameterized (a is a parameter)
+    static void foo(int a, int b){ //parameterized (a is a parameter).
         System.out.println("Good Morning "+ a+ " bro");
         System.out.println("Good Morning "+ b+ " bro");
     }

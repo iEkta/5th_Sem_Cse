@@ -2,7 +2,7 @@ package com.company;
 
 public class Ch5_4_BreakAndContinue {
     public static void main(String[] args) {
-        //Break and Continue using loops
+        //Break and Continue using loops.
         for (int i=0; i<3;i++){
             System.out.println(i);
             System.out.println("Java is great");

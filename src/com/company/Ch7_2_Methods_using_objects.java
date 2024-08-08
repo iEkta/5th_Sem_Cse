@@ -15,7 +15,7 @@ public class Ch7_2_Methods_using_objects {
         int a = 5;
         int b=7;
         int c;
-        //Method invocation using object creation
+        //Method invocation using object creation.
         Ch7_2_Methods_using_objects obj= new Ch7_2_Methods_using_objects();
         c= obj.logic(a,b);
         System.out.println("a:"+a+" "+"b:"+b);

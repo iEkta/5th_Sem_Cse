@@ -15,7 +15,7 @@ public class Ch6_2_ForEachLoop {
         //Display the array
         System.out.println("Printing using for loop");
         for (int i =0; i< marks.length; i++){
-            System.out.println(marks[i]); //Array traversal
+            System.out.println(marks[i]); //Array  traversall
         }
         System.out.println();
 

@@ -1,3 +1,5 @@
+package com.company;
+
 /* 1. Write a program to print the pattern.
     ****
     ***

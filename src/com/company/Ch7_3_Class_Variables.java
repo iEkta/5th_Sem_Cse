@@ -1,7 +1,8 @@
 package com.company;
 
 public class Ch7_3_Class_Variables { //void does ot return anything
-    static  void  tellJoke() { //static associates a method of a given class with the class rather than an object
+    static  void  tellJoke() {
+        //static associates a method of a given class with the class rather than an object
         System.out.println("I invented a new word!\n plagiarism");
     }
     //Case 1: Changing the integer
