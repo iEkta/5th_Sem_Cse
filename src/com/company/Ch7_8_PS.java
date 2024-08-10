@@ -17,7 +17,7 @@
     8. Repeat Q2 using recursion.
     9. Write a program to convert Celsius temperature to Fahrenheit.
     10. Repeat Q3 using iterative approach.
- */
+  */
 package com.company;
 
 public class Ch7_8_PS {
