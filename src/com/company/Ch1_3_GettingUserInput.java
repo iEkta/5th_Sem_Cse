@@ -1,7 +1,7 @@
 package com.company;
-
 // Taking User Input
 import java.util.Scanner;
+
 class Ch1_3_GettingUserInput {
     public static void main(String[] args) {
         System.out.println("Taking input from the user");
