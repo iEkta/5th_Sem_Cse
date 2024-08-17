@@ -37,6 +37,7 @@ class Derived extends Base{
         this.y = y;
     }
 }
+
 public class Ch10_1_Inheritance {
     public static void main(String[] args) {
         //Creating an object of Base class

@@ -15,7 +15,6 @@ class Game {
     private int input;
     private int randomNo;
     private int guesses =0;
-//    private boolean isCorrectNo=false;
 
     //Constructor to generate the random no
     public Game(){
