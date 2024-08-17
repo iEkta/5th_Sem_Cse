@@ -1,5 +1,15 @@
 /*
     Constructor- A member function used to initialize an object while creating it.
+
+    1.Same Name as Class: The constructor must have the same name as the class in which it is defined.
+
+    2.No Return Type: Constructors do not have a return type, not even void. They are not supposed to return any value.
+
+    3.Automatic Invocation: Constructors are automatically called when an object of the class is created using the new keyword.
+
+    4.Types of Constructors:
+    Default Constructor: A constructor without parameters. If no constructor is defined, the compiler provides a default constructor.
+    Parameterized Constructor: A constructor that accepts parameters. This allows you to pass data to the object at the time of creation.
  */
 package com.company;
 

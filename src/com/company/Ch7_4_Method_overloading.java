@@ -1,9 +1,16 @@
 package com.company;
 
-/*Method overloading cannot be performed by changing the return type of methods
- eg- static void f(a,b)
-     static int f(a,b)
-     Both are same methods*/
+/*
+    Method overloading- where you can have multiple methods with the same name
+     but different parameter types or numbers.
+
+    Method overloading cannot be performed by changing the return type of methods
+    eg- static void f(a,b)
+         static int f(a,b)
+        Both are same methods
+
+     ** Constructor overloading in Java refers to the ability to define multiple constructors
+       in the same class, each with different parameter lists. */
 public class Ch7_4_Method_overloading {
     static void foo(){
         System.out.println("Good Morning bro");
