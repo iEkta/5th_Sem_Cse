@@ -9,7 +9,7 @@ package com.company;
                    -It simply means that the sensitive data can be hidden from the user.
     Inheritance - Act of deriving new things from existing things
                     ->rickshaw- e-rickshaw
-    Polymorphism- One entity many forms
+    Polymorphism- Phone entity many forms
                     ->smartphone - phone, calculator
  */
 public class Ch8_1_OOPS {

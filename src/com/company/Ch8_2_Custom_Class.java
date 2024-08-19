@@ -2,7 +2,7 @@ package com.company;
 /* Any real world object = Properties + Behaviour
    Object in OOPS        = Attributes + Methods
 */
-// One java file can have only one public file
+// Phone java file can have only one public file
 class Employee{
     int id;
     int salary;
